@@ -1,4 +1,5 @@
 Kütüphane Otomasyon Sistemi
+
 Bu proje, bir kütüphane için geliştirilmiş bir otomasyon sistemidir. Sistem, kütüphanedeki kitapların, yazarların, kategorilerin, yayınevlerinin ve ödünç alma işlemlerinin yönetilmesini sağlar. Proje, RESTful API mimarisini kullanarak çeşitli CRUD (Create, Read, Update, Delete) işlemlerinin yapılmasına olanak tanır.
 
 Projenin Amacı
